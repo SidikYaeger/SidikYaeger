@@ -1,5 +1,5 @@
 # 💫 About Me:
-The name's Zhafir, Zhafir Muhammad Tectona Grandito.<br>CS Student in Telkom University<br><br>NEScan Contributor with Awiones<br>u can check it on github.com/awiones/NEScan
+The name's Zhafir, Zhafir Muhammad Tectona Grandito.<br>CS Student in Telkom University<br><br>NEScan Contributor
 
 
 ## 🌐 Socials:
