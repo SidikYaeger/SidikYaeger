@@ -1,5 +1,6 @@
 # 💫 About Me:
-The name's Zhafir, Zhafir Muhammad Tectona Grandito.<br>CS Student in Telkom University
+The name's Zhafir
+Zhafir Muhammad Tectona Grandito.<br>CS Student in Telkom University
 
 
 ## 🌐 Socials:
