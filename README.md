@@ -13,7 +13,7 @@ Zhafir Muhammad Tectona Grandito.<br>CS Student in Telkom University
 ### **NEScan**
 - Contributed to **NEScan**, an open-source network scanning tool designed to detect vulnerabilities in networks.
 - Features include port scanning, service detection, and vulnerability assessment.
-- My contributions focused on improving the tool's usability and adding new features to enhance its functionality.
+- Focused on improving the tool's usability and adding new features to enhance its functionality.
 
 Repository: [NEScan on GitHub](https://github.com/awiones/NEScan)
 # 📊 GitHub Stats:
