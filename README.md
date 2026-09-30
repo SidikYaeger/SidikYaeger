@@ -1,6 +1,6 @@
 # About Me:
 The name's Zhafir, Zhafir Muhammad Tectona Grandito<br>
-AI Enthusiast | Aspiring Full-Stack Developer | Informatics Student<br>Looking for Internship
+AI Enthusiast | Aspiring Full-Stack Developer | Aspiring Data Analyst | Informatics Student<br>Looking for Internship
 
 
 ## Socials:
