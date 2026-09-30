@@ -5,7 +5,7 @@ AI Enthusiast | Aspiring Data Analyst | Informatics Student<br>Looking for Inter
 Indonesia Marketing Association Sub Chapter Telkom University<br>
 Human Capital Management, Division Manager (Dec 2025 - Dec 2026)
 <br>
-https://drive.google.com/file/d/1VQSzBht2aaoPAd-3ArkoiIENmpFV2M8Y/view?usp=sharing
+CV: https://drive.google.com/file/d/1VQSzBht2aaoPAd-3ArkoiIENmpFV2M8Y/view?usp=sharing
 <br>
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zha.tectona) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zhafirmuhammad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zhafirgrandito@gmail.com) 
