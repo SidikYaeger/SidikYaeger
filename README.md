@@ -2,7 +2,7 @@
 The name's Zhafir, Zhafir Muhammad Tectona Grandito<br>
 AI Enthusiast | Aspiring Data Analyst | Informatics Student<br>Looking for Internship<br>
 
-Indonesia Marketing Association Sub Chapter Telkom University
+Indonesia Marketing Association Sub Chapter Telkom University<br>
 Human Capital Management, Division Manager
 
 ## Socials:
