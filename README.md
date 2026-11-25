@@ -5,7 +5,7 @@ AI Enthusiast | Aspiring Data Analyst | Informatics Student<br>Looking for Inter
 Indonesia Marketing Association Sub Chapter Telkom University<br>
 Human Capital Management, Division Manager (Dec 2025 - Dec 2026)
 <br>
-Head of Open Recruitment IMA Sc Telkom University 2025 and manager for the Open Recruitment IMA Sc Telkom University 2026
+Head of Open Recruitment IMA Sc Telkom University 2025 and Manager for the Open Recruitment IMA Sc Telkom University 2026
 <br>
 CV: https://drive.google.com/file/d/1VQSzBht2aaoPAd-3ArkoiIENmpFV2M8Y/view?usp=sharing
 <br>
